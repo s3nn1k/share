@@ -1,3 +1,10 @@
 LOCAL.md
 *.kdbx
 *.tmp
+*.lock
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
